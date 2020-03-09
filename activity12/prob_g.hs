@@ -1,0 +1,2 @@
+-- get two integers as range use as range of potential numbers
+-- call isprime to check if is prime and add to list if it is
